@@ -1,0 +1,17 @@
+.mat-list-item{
+    /* Margen izquierdo para separar el ícono del texto */
+    margin-right: 8px;
+
+    /* Tamaño del ícono */
+    font-size: 24px;
+
+    /* Color del ícono */
+    color: #007bff;
+
+    /* Alineación vertical para centrar el ícono */
+    vertical-align: middle;
+}
+
+.container{
+    margin: 10px;
+}
